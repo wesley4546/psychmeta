@@ -153,7 +153,6 @@ control_psychmeta <- function(error_type = c("mean", "sample"),
                                                                  "wt_mean_mod", "wt_mean_full", 
                                                                  "unwt_mean_mod", "unwt_mean_full", 
                                                                  "replace_unity", "stop"))
-     
      if(!is.numeric(control$seed)) stop("'seed' must be numeric", call. = FALSE)
      if(any(is.na(seed))) seed <- NULL
      if(length(seed) == 0) seed <- NULL

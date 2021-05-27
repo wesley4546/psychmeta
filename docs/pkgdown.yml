@@ -1,0 +1,24 @@
+pandoc: 2.11.4
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  artifact_corrections: artifact_corrections.html
+  composites: composites.html
+  dependency: dependency.html
+  es_conversion: es_conversion.html
+  heterogeneity: heterogeneity.html
+  import_organize: import_organize.html
+  ma_d: ma_d.html
+  ma_options: ma_options.html
+  ma_r: ma_r.html
+  matrix_regression: matrix_regression.html
+  moderator_analysis: moderator_analysis.html
+  multivariate_range_restriction: multivariate_range_restriction.html
+  output_results: output_results.html
+  overview: overview.html
+  plots: plots.html
+  sensitivity: sensitivity.html
+  simulation: simulation.html
+  workshop: workshop.html
+last_built: 2021-05-27T04:41Z
+
